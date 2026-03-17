@@ -1,0 +1,2 @@
+// Copia este archivo como config.dart y pon tu clave real
+const String googleMapsApiKey = 'TU_API_KEY_AQUI';
