@@ -19,6 +19,9 @@ dependencies:
   # Bluetooth clásico (SPP) — compatible con v2 embedding
   bluetooth_classic: ^0.0.4
 
+  # Mantener pantalla encendida durante navegación
+  wakelock_plus: ^1.2.8
+
   # Text-to-Speech
   flutter_tts: ^4.0.2
 
